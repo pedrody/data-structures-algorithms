@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="BinarySearch/BinarySearch.csproj" />
+  <Project Path="QuickSort/QuickSort.csproj" Id="1a678bac-de4d-4893-a713-93eabb8606b7" />
   <Project Path="SelectionSort/SelectionSort.csproj" Id="72cf7cff-9ebf-4c5e-89b9-7db40f052922" />
 </Solution>
