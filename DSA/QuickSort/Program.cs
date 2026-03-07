@@ -18,3 +18,7 @@ Console.WriteLine(RecursiveMax.Max(list));
 // Recursive binary search:
 var sortedList = new List<int> { 10, 20, 30, 40, 50 };
 Console.WriteLine(RecursiveBinarySearch.BinarySearch(sortedList, 50, 0, sortedList.Count - 1));
+
+// Quicksort
+list = new List<int> { 44, 10, 10, 76, 30, 5 };
+Console.WriteLine(string.Join(", ", Quicksort.Qsort(list)));
